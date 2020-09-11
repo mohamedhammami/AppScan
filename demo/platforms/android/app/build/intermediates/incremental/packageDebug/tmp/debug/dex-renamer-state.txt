@@ -1,0 +1,4 @@
+#Thu Sep 10 17:36:20 CEST 2020
+base.0=C\:\\Users\\MOHAMED\\Desktop\\gg\\nativescript-barcodescanner\\demo\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

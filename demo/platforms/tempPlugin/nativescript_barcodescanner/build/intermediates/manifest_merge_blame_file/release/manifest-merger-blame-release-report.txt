@@ -1,0 +1,53 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.nativescript.nativescript_barcodescanner"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk android:targetSdkVersion="26" />
+7-->C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\tempPlugin\nativescript_barcodescanner\src\main\AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.CAMERA" />
+9-->C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\tempPlugin\nativescript_barcodescanner\src\main\AndroidManifest.xml:3:3-62
+9-->C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\tempPlugin\nativescript_barcodescanner\src\main\AndroidManifest.xml:3:20-60
+10    <uses-permission android:name="android.permission.FLASHLIGHT" />
+10-->C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\tempPlugin\nativescript_barcodescanner\src\main\AndroidManifest.xml:4:3-66
+10-->C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\tempPlugin\nativescript_barcodescanner\src\main\AndroidManifest.xml:4:20-64
+11
+12    <uses-feature
+12-->C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\tempPlugin\nativescript_barcodescanner\src\main\AndroidManifest.xml:5:3-82
+13        android:name="android.hardware.camera"
+13-->C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\tempPlugin\nativescript_barcodescanner\src\main\AndroidManifest.xml:5:17-55
+14        android:required="false" />
+14-->C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\tempPlugin\nativescript_barcodescanner\src\main\AndroidManifest.xml:5:56-80
+15
+16    <application>
+16-->C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\tempPlugin\nativescript_barcodescanner\src\main\AndroidManifest.xml:6:3-13:17
+17        <activity
+17-->C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\tempPlugin\nativescript_barcodescanner\src\main\AndroidManifest.xml:7:5-12:16
+18            android:name="com.google.zxing.client.android.CaptureActivity"
+18-->C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\tempPlugin\nativescript_barcodescanner\src\main\AndroidManifest.xml:7:15-77
+19            android:clearTaskOnLaunch="true"
+19-->C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\tempPlugin\nativescript_barcodescanner\src\main\AndroidManifest.xml:7:78-110
+20            android:configChanges="keyboardHidden|orientation|screenSize"
+20-->C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\tempPlugin\nativescript_barcodescanner\src\main\AndroidManifest.xml:7:111-172
+21            android:exported="false"
+21-->C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\tempPlugin\nativescript_barcodescanner\src\main\AndroidManifest.xml:7:280-304
+22            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+22-->C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\tempPlugin\nativescript_barcodescanner\src\main\AndroidManifest.xml:7:173-231
+23            android:windowSoftInputMode="stateAlwaysHidden" >
+23-->C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\tempPlugin\nativescript_barcodescanner\src\main\AndroidManifest.xml:7:232-279
+24            <intent-filter>
+24-->C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\tempPlugin\nativescript_barcodescanner\src\main\AndroidManifest.xml:8:7-11:23
+25                <action android:name="com.google.zxing.client.android.SCAN" />
+25-->C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\tempPlugin\nativescript_barcodescanner\src\main\AndroidManifest.xml:9:9-70
+25-->C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\tempPlugin\nativescript_barcodescanner\src\main\AndroidManifest.xml:9:17-68
+26
+27                <category android:name="android.intent.category.DEFAULT" />
+27-->C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\tempPlugin\nativescript_barcodescanner\src\main\AndroidManifest.xml:10:9-67
+27-->C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\tempPlugin\nativescript_barcodescanner\src\main\AndroidManifest.xml:10:19-65
+28            </intent-filter>
+29        </activity>
+30    </application>
+31
+32</manifest>

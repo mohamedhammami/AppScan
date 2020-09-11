@@ -1,0 +1,1 @@
+C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app/src/main/assets/metadata

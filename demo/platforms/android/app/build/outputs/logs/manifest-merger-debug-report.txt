@@ -1,0 +1,275 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\c1f7163200dfafd8ccbf6a1ce525033c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\6911332ac0813123965408ebfca27797\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\cff6a061aa64817c0ec8c5dec9f583c7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\462be6436370efd0ba2a94ec61b5ee4f\AndroidManifest.xml:17:1-22:12
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\4b3c56ed57523f7f41a4ac650927ce3b\AndroidManifest.xml:2:1-11:12
+MERGED from [:barcodescanner-release-2.1.6:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\9d2ccb3fcf55e33e9eae61bfc16eaa9a\AndroidManifest.xml:2:1-14:12
+MERGED from [:nativescript_barcodescanner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\315a68aca27f3536829aff0f67f727c9\AndroidManifest.xml:2:1-32:12
+MERGED from [:nativescript_unit_test_runner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\e853d3fa23c4f5a361d84987d48214fc\AndroidManifest.xml:2:1-13:12
+MERGED from [:widgets-release:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\ce81b33894f9f05d107fe72fa86e3b06\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\73f1b52e5b9f91a3445c56557400fa96\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\6dacb249788b1a503ad20142c0abcb93\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\27971a54e55dba5acc83beb30745f6c9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\61eb323cedb25623e6b4e0b61dd348fa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\a5d8b2b1da9134135cbfb8f968e2c4b8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\e02d6c25719b0ea2bfcfeecb930fda90\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\b9810a8bed0889d2c77c46ee6b5cabf4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\46f211d0548feb9c5bd760ce615f9353\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\77c23b9c84c222134aab7d49ff544bdd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\22dd96152b41c62975ca53aef3947303\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\e0ab2a17eda3772456536724bb8d6bd3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\2a663679577eba92aa5a14ab3d59c880\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\c64e93c0be9465fcd664ad9e064f910d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\33a54da3095ff58a78a2f5f79ac34294\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\3042ed4782c408ad6b832170e84a1332\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\5334e506ce6518950d2a6e1f82705076\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\ff95dff44c5c683a830a68e2d1b6d648\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\f9055432bc666697613f2575a1945e7a\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\535c81b1ac4fb6c800ae4102370780f5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\db30d0873490ea08e0ebd565cd0deb3f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\3dc36e4fa848b99a9c500c992f41362f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\e62be225200782695682af0d754fc4cc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\6071376c36ce3170ff084fdfac05fa31\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\feec9becc7ed6ab3ad8b7cd49bbfa4d3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\d6cbbcc37dee43846bf374f66fa9393a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\3a948dff10c8b6853603b82938bb0700\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\417a5263101ada34cdb575cc52e6b688\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\12b4c3a9d1306e30dc9061cacd26de25\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\39bcb64cb8f3e8d8aa165224e7e18fc1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:3:6-58
+		INJECTED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:5:6-31
+		INJECTED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:4:6-29
+		INJECTED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:7:2-11:34
+	android:largeScreens
+		ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:10:4-31
+	android:smallScreens
+		ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:8:4-31
+	android:normalScreens
+		ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:9:4-32
+	android:xlargeScreens
+		ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:11:4-32
+uses-sdk
+ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:45
+INJECTED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:45
+INJECTED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:45
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\c1f7163200dfafd8ccbf6a1ce525033c\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\c1f7163200dfafd8ccbf6a1ce525033c\AndroidManifest.xml:20:5-43
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\6911332ac0813123965408ebfca27797\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\6911332ac0813123965408ebfca27797\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\cff6a061aa64817c0ec8c5dec9f583c7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\cff6a061aa64817c0ec8c5dec9f583c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\462be6436370efd0ba2a94ec61b5ee4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\462be6436370efd0ba2a94ec61b5ee4f\AndroidManifest.xml:20:5-44
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\4b3c56ed57523f7f41a4ac650927ce3b\AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized-with-inspector:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\4b3c56ed57523f7f41a4ac650927ce3b\AndroidManifest.xml:7:5-9:41
+MERGED from [:barcodescanner-release-2.1.6:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\9d2ccb3fcf55e33e9eae61bfc16eaa9a\AndroidManifest.xml:7:5-9:41
+MERGED from [:barcodescanner-release-2.1.6:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\9d2ccb3fcf55e33e9eae61bfc16eaa9a\AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript_barcodescanner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\315a68aca27f3536829aff0f67f727c9\AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_barcodescanner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\315a68aca27f3536829aff0f67f727c9\AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_unit_test_runner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\e853d3fa23c4f5a361d84987d48214fc\AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_unit_test_runner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\e853d3fa23c4f5a361d84987d48214fc\AndroidManifest.xml:7:5-47
+MERGED from [:widgets-release:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\ce81b33894f9f05d107fe72fa86e3b06\AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\ce81b33894f9f05d107fe72fa86e3b06\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\73f1b52e5b9f91a3445c56557400fa96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\73f1b52e5b9f91a3445c56557400fa96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\6dacb249788b1a503ad20142c0abcb93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\6dacb249788b1a503ad20142c0abcb93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\27971a54e55dba5acc83beb30745f6c9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\27971a54e55dba5acc83beb30745f6c9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\61eb323cedb25623e6b4e0b61dd348fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\61eb323cedb25623e6b4e0b61dd348fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\a5d8b2b1da9134135cbfb8f968e2c4b8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\a5d8b2b1da9134135cbfb8f968e2c4b8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\e02d6c25719b0ea2bfcfeecb930fda90\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\e02d6c25719b0ea2bfcfeecb930fda90\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\b9810a8bed0889d2c77c46ee6b5cabf4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\b9810a8bed0889d2c77c46ee6b5cabf4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\46f211d0548feb9c5bd760ce615f9353\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\46f211d0548feb9c5bd760ce615f9353\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\77c23b9c84c222134aab7d49ff544bdd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\77c23b9c84c222134aab7d49ff544bdd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\22dd96152b41c62975ca53aef3947303\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\22dd96152b41c62975ca53aef3947303\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\e0ab2a17eda3772456536724bb8d6bd3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\e0ab2a17eda3772456536724bb8d6bd3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\2a663679577eba92aa5a14ab3d59c880\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\2a663679577eba92aa5a14ab3d59c880\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\c64e93c0be9465fcd664ad9e064f910d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\c64e93c0be9465fcd664ad9e064f910d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\33a54da3095ff58a78a2f5f79ac34294\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\33a54da3095ff58a78a2f5f79ac34294\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\3042ed4782c408ad6b832170e84a1332\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\3042ed4782c408ad6b832170e84a1332\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\5334e506ce6518950d2a6e1f82705076\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\5334e506ce6518950d2a6e1f82705076\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\ff95dff44c5c683a830a68e2d1b6d648\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\ff95dff44c5c683a830a68e2d1b6d648\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\f9055432bc666697613f2575a1945e7a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\f9055432bc666697613f2575a1945e7a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\535c81b1ac4fb6c800ae4102370780f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\535c81b1ac4fb6c800ae4102370780f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\db30d0873490ea08e0ebd565cd0deb3f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\db30d0873490ea08e0ebd565cd0deb3f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\3dc36e4fa848b99a9c500c992f41362f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\3dc36e4fa848b99a9c500c992f41362f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\e62be225200782695682af0d754fc4cc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\e62be225200782695682af0d754fc4cc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\6071376c36ce3170ff084fdfac05fa31\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\6071376c36ce3170ff084fdfac05fa31\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\feec9becc7ed6ab3ad8b7cd49bbfa4d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\feec9becc7ed6ab3ad8b7cd49bbfa4d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\d6cbbcc37dee43846bf374f66fa9393a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\d6cbbcc37dee43846bf374f66fa9393a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\3a948dff10c8b6853603b82938bb0700\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\3a948dff10c8b6853603b82938bb0700\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\417a5263101ada34cdb575cc52e6b688\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\417a5263101ada34cdb575cc52e6b688\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\12b4c3a9d1306e30dc9061cacd26de25\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\12b4c3a9d1306e30dc9061cacd26de25\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\39bcb64cb8f3e8d8aa165224e7e18fc1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\39bcb64cb8f3e8d8aa165224e7e18fc1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:45
+INJECTED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:45
+	android:targetSdkVersion
+		ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:15:4-43
+		INJECTED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:14:4-30
+		INJECTED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:14:4-30
+		MERGED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:14:4-30
+		INJECTED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:19:2-63
+MERGED from [:nativescript_unit_test_runner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\e853d3fa23c4f5a361d84987d48214fc\AndroidManifest.xml:9:5-67
+MERGED from [:nativescript_unit_test_runner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\e853d3fa23c4f5a361d84987d48214fc\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:19:19-61
+application
+ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:21:2-42:16
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\cff6a061aa64817c0ec8c5dec9f583c7\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\cff6a061aa64817c0ec8c5dec9f583c7\AndroidManifest.xml:22:5-20
+MERGED from [:barcodescanner-release-2.1.6:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\9d2ccb3fcf55e33e9eae61bfc16eaa9a\AndroidManifest.xml:11:5-12:19
+MERGED from [:barcodescanner-release-2.1.6:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\9d2ccb3fcf55e33e9eae61bfc16eaa9a\AndroidManifest.xml:11:5-12:19
+MERGED from [:nativescript_barcodescanner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\315a68aca27f3536829aff0f67f727c9\AndroidManifest.xml:16:5-30:19
+MERGED from [:nativescript_barcodescanner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\315a68aca27f3536829aff0f67f727c9\AndroidManifest.xml:16:5-30:19
+MERGED from [:nativescript_unit_test_runner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\e853d3fa23c4f5a361d84987d48214fc\AndroidManifest.xml:11:5-56
+MERGED from [:nativescript_unit_test_runner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\e853d3fa23c4f5a361d84987d48214fc\AndroidManifest.xml:11:5-56
+MERGED from [:widgets-release:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\ce81b33894f9f05d107fe72fa86e3b06\AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\ce81b33894f9f05d107fe72fa86e3b06\AndroidManifest.xml:11:5-12:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\ff95dff44c5c683a830a68e2d1b6d648\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\ff95dff44c5c683a830a68e2d1b6d648\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\f9055432bc666697613f2575a1945e7a\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\f9055432bc666697613f2575a1945e7a\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\ff95dff44c5c683a830a68e2d1b6d648\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:25:4-36
+	android:icon
+		ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:24:4-33
+	android:allowBackup
+		ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:23:4-30
+	android:theme
+		ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:26:4-35
+	android:usesCleartextTraffic
+		ADDED from [:nativescript_unit_test_runner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\e853d3fa23c4f5a361d84987d48214fc\AndroidManifest.xml:11:18-53
+	android:name
+		ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:22:4-50
+activity#com.tns.NativeScriptActivity
+ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:28:3-40:14
+	android:label
+		ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:30:5-50
+	android:configChanges
+		ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:31:5-66
+	android:theme
+		ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:32:5-45
+	android:name
+		ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:29:5-48
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:34:4-87
+	android:resource
+		ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:34:50-84
+	android:name
+		ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:34:15-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:36:4-39:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:37:5-57
+	android:name
+		ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:37:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:38:5-65
+	android:name
+		ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:38:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:41:3-57
+	android:name
+		ADDED from C:\Users\MOHAMED\Desktop\gg\nativescript-barcodescanner\demo\platforms\android\app\src\main\AndroidManifest.xml:41:13-55
+uses-permission#android.permission.CAMERA
+ADDED from [:nativescript_barcodescanner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\315a68aca27f3536829aff0f67f727c9\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:nativescript_barcodescanner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\315a68aca27f3536829aff0f67f727c9\AndroidManifest.xml:9:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from [:nativescript_barcodescanner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\315a68aca27f3536829aff0f67f727c9\AndroidManifest.xml:10:5-69
+	android:name
+		ADDED from [:nativescript_barcodescanner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\315a68aca27f3536829aff0f67f727c9\AndroidManifest.xml:10:22-66
+uses-feature#android.hardware.camera
+ADDED from [:nativescript_barcodescanner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\315a68aca27f3536829aff0f67f727c9\AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [:nativescript_barcodescanner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\315a68aca27f3536829aff0f67f727c9\AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from [:nativescript_barcodescanner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\315a68aca27f3536829aff0f67f727c9\AndroidManifest.xml:13:9-47
+activity#com.google.zxing.client.android.CaptureActivity
+ADDED from [:nativescript_barcodescanner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\315a68aca27f3536829aff0f67f727c9\AndroidManifest.xml:17:9-29:20
+	android:clearTaskOnLaunch
+		ADDED from [:nativescript_barcodescanner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\315a68aca27f3536829aff0f67f727c9\AndroidManifest.xml:19:13-45
+	android:windowSoftInputMode
+		ADDED from [:nativescript_barcodescanner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\315a68aca27f3536829aff0f67f727c9\AndroidManifest.xml:23:13-60
+	android:exported
+		ADDED from [:nativescript_barcodescanner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\315a68aca27f3536829aff0f67f727c9\AndroidManifest.xml:21:13-37
+	android:configChanges
+		ADDED from [:nativescript_barcodescanner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\315a68aca27f3536829aff0f67f727c9\AndroidManifest.xml:20:13-74
+	android:theme
+		ADDED from [:nativescript_barcodescanner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\315a68aca27f3536829aff0f67f727c9\AndroidManifest.xml:22:13-71
+	android:name
+		ADDED from [:nativescript_barcodescanner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\315a68aca27f3536829aff0f67f727c9\AndroidManifest.xml:18:13-75
+intent-filter#action:name:com.google.zxing.client.android.SCAN+category:name:android.intent.category.DEFAULT
+ADDED from [:nativescript_barcodescanner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\315a68aca27f3536829aff0f67f727c9\AndroidManifest.xml:24:13-28:29
+action#com.google.zxing.client.android.SCAN
+ADDED from [:nativescript_barcodescanner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\315a68aca27f3536829aff0f67f727c9\AndroidManifest.xml:25:17-79
+	android:name
+		ADDED from [:nativescript_barcodescanner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\315a68aca27f3536829aff0f67f727c9\AndroidManifest.xml:25:25-76
+category#android.intent.category.DEFAULT
+ADDED from [:nativescript_barcodescanner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\315a68aca27f3536829aff0f67f727c9\AndroidManifest.xml:27:17-76
+	android:name
+		ADDED from [:nativescript_barcodescanner:] C:\Users\MOHAMED\.gradle\caches\transforms-2\files-2.1\315a68aca27f3536829aff0f67f727c9\AndroidManifest.xml:27:27-73
